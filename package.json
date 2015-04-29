@@ -1,10 +1,12 @@
 {
   "name": "shortwords",
   "main": "./lib/shortwords.js",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "private": true,
   "description": "Write words shortcuts to write full command",
-  "activationEvents": ["shortwords:replace"],
+  "activationEvents": [
+    "shortwords:replace"
+  ],
   "repository": "https://github.com/jsertx/atom-shortwords",
   "license": "MIT",
   "engines": {
