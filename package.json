@@ -1,7 +1,7 @@
 {
   "name": "shortwords",
   "main": "./lib/shortwords.js",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "private": true,
   "description": "Write words shortcuts to write full command",
   "activationEvents": [
