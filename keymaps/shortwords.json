@@ -1,5 +1,5 @@
 {
   ".editor": {
-    "cmd-alt-a": "shortwords:replace"
+    "cmd-shift-f3": "shortwords:replace"
   }
 }
